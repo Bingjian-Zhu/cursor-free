@@ -5,9 +5,6 @@
 
 本项目基于 [@chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) 开源项目进行二次开发，在此特别感谢原作者的无私分享和贡献！
 
-
-[English doc](./README.EN.md)
-
 ## 下载安装
 从 [GitHub Tags](https://github.com/Bingjian-Zhu/cursor-free/tags) 下载最新版本
 ### 根据你的系统选择对应的版本：
@@ -16,10 +13,9 @@
 - Mac（M系列）：选择 ARM64(aarch64) 版本
 
 ## 按照下文配置环境文件，注册邮箱、下载人名数据、修改配置文件，然后运行
-1. 前往 [2925邮箱](https://www.2925.com/login/) 注册账号。
-2. 完成邮箱注册流程。
-3. 下载人名数据文件[names-dataset.txt](https://github.com/Bingjian-Zhu/cursor-free/names-dataset.txt) 并放置在可执行文件同级目录下
-4. 下载[.env](https://github.com/Bingjian-Zhu/cursor-free/.env)配置文件并放置在可执行文件同级目录下
+1. 前往 [2925邮箱](https://www.2925.com/login/) 注册账号， 完成邮箱注册流程。
+2. 下载人名数据文件[names-dataset.txt](https://github.com/Bingjian-Zhu/cursor-free/blob/main/names-dataset.txt) 并放置在可执行文件同级目录下
+3. 下载[.env](https://github.com/Bingjian-Zhu/cursor-free/blob/main/.env)配置文件并放置在可执行文件同级目录下
 4. 修改.env文件中的IMAP_USER为注册的邮箱，IMAP_PASS为邮箱密码
 
 #### Windows 用户
@@ -37,6 +33,7 @@ chmod +x ./CursorPro
 ```
 如果遇到以下提示
 ![](./c29ea438-ee74-4ba1-bbf6-25e622cdfad5.png)
+
 点击[这里查看解决方法](https://sysin.org/blog/macos-if-crashes-when-opening/)
 
 #### 验证步骤
