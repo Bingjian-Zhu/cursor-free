@@ -13,7 +13,7 @@
 - Mac（M系列）：选择 ARM64(aarch64) 版本
 
 ## 按照下文配置环境文件，注册邮箱、下载人名数据、修改配置文件，然后运行
-1. 前往 [2925邮箱](https://www.2925.com/login/) 注册账号， 完成邮箱注册流程。
+1. 前往 [注册邮箱](https://www.2925.com/login/) 注册账号， 完成邮箱注册流程。
 2. 下载人名数据文件[names-dataset.txt](https://github.com/Bingjian-Zhu/cursor-free/blob/main/names-dataset.txt) 并放置在可执行文件同级目录下
 3. 下载[.env](https://github.com/Bingjian-Zhu/cursor-free/blob/main/.env)配置文件并放置在可执行文件同级目录下
 4. 修改.env文件中的IMAP_USER为注册的邮箱，IMAP_PASS为邮箱密码
