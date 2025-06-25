@@ -48,6 +48,7 @@ chmod +x ./CursorPro
 #### 常见问题
 1. 获取不到邮箱验证码
    - 请检查配置的邮箱是否填写正确，除修改邮箱和邮箱密码外，不要修改其他配置
+   - 首次注册可能出现验证码获取不到的情况(BUG)，重新再跑一次就可以了
 
 ## 许可证声明
 本项目采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 许可证。
