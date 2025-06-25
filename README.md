@@ -1,7 +1,7 @@
 # Cursor Pro 自动化工具使用说明
 
 ## 功能说明
-使用2925邮箱的无限子邮箱功能，实现Cursor无限账号注册。
+实现Cursor无限账号注册。
 
 本项目基于 [@chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) 开源项目进行二次开发，在此特别感谢原作者的无私分享和贡献！
 
